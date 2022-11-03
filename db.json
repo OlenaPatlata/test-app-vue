@@ -4,19 +4,13 @@
       "id": 1,
       "text": "Dor1",
       "day": "12/02",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
       "text": "Dor2",
       "day": "13/02",
-      "reminder": false
-    },
-    {
-      "text": "ASDXCFVB",
-      "day": "asdxcfvb n",
-      "reminder": false,
-      "id": 3
+      "reminder": true
     }
   ]
 }
